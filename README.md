@@ -9,6 +9,8 @@ the player strikes the surface of the 'instrument' in order to acurately reprodu
 The application may be tested on a MacBook or any other device with a multitouch trackpad. A TUIO wrapper, such as
 Tongseng, is necessary.
 
+**Placeholder sounds are still in place while samples are being recorded.**
+
 **Usage**
 ---------
 1. Download TUIO wrapper for multitouch device
